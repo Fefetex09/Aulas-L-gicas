@@ -31,4 +31,11 @@ Soma (98,2);
 Soma (754863, 66666); 
 
 
+function Media (nr1, nr2){
+    let resultado = (n1 + n2) / 2
+    return resultado
+} 
+let valor = Media(5,8); 
+
+
 
